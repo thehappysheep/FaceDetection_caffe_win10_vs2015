@@ -1,0 +1,2 @@
+F:/caffe-windows/scripts/build/tools/Release/convert_imageset.exe --resize_height=227 --resize_width=227 --shuffle E:/dataset/FaceDetection/face_data/  E:/dataset/FaceDetection/filelist.txt train_image.lmdb
+F:/caffe-windows/scripts/build/tools/Release/convert_imageset.exe --resize_height=227 --resize_width=227 --shuffle E:/dataset/FaceDetection/val/  E:/dataset/FaceDetection/valfilelist.txt val_image.lmdb
