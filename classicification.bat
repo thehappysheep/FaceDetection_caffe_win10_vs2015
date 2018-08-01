@@ -1,1 +1,0 @@
-F:/caffe-windows/scripts/build/examples/cpp_classification/Release/classification.exe E:/dataset/catdog/Deploy.prototxt  E:/dataset/FaceDetection/model/_iter_100000.caffemodel E:/dataset/FaceDetection/facedata_mean.binaryproto E:/dataset/FaceDetection/class.txt E:/dataset/FaceDetection/1.jpg
